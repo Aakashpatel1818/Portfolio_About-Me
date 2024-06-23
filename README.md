@@ -13,6 +13,8 @@ Project Showcase: Highlights my recent projects with images and descriptions.
 Smooth Scrolling: Enhances user experience with smooth transitions between sections.
 Downloadable Resume: Provides an option to download my resume directly from the website.
 # Technologies Used
-HTML,
-CSS,
+HTML
+
+CSS
+
 JavaScript
