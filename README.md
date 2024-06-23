@@ -14,5 +14,6 @@ Smooth Scrolling: Enhances user experience with smooth transitions between secti
 Downloadable Resume: Provides an option to download my resume directly from the website.
 # Technologies Used
 HTML
+
 CSS
 JavaScript
